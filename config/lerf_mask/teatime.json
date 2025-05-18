@@ -1,0 +1,10 @@
+{
+  "MIN_SAMPLES" : 20,
+  "MIN_CLUSTER_SIZE" : 20,
+  "MAX_CLUSTER_SIZE" : 30000,
+  "PCA_DIM": 6,
+  "RADIUS_RATIO": 2.4,
+  "HEIGHT": 730,
+  "WIDTH": 988,
+  "SCALER": "standard"
+}
